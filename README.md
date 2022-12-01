@@ -9,8 +9,8 @@ Welcome! This is my Github page. To find out more about me, take a look at my [L
 
 ## Newest professional stuff
 
-* Getting better at 🤓 [Go](https://go.dev/)
-* Getting better at ☸️ [Kubernetes](https://kubernetes.io/)
+* Serving as principal engineer for [Segment](https://segment.com/)'s developer platform team 🏗️
+* Always learning more ☸️ [Kubernetes](https://kubernetes.io/)
 
 ## Personal links
 

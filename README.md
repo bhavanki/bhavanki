@@ -9,7 +9,7 @@ Welcome! This is my Github page. To find out more about me, take a look at my [L
 
 ## Newest professional stuff
 
-* Serving as principal engineer for [Segment](https://segment.com/)'s developer platform team 🏗️
+* Serving as principal engineer in the [Twilio](https://twilio.com) platform engineering team 🏗️
 * Always learning more ☸️ [Kubernetes](https://kubernetes.io/)
 
 ## Personal links

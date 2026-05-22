@@ -10,7 +10,9 @@ Welcome! This is my Github page. To find out more about me, take a look at my [L
 ## Newest professional stuff
 
 * Serving as principal engineer in the [Twilio](https://twilio.com) platform engineering team 🏗️
-* Always learning more ☸️ [Kubernetes](https://kubernetes.io/)
+* Always learning more 🐹 [Go](https://go.dev/)
+* Mentoring 🎓
+* Subjugating AIs to my will 🤖
 
 ## Personal links
 
